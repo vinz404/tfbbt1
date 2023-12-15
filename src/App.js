@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img
           src="https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg"
-          className="App-logo"
+          className="App-test"
           alt="logo"
         />
         <p>
